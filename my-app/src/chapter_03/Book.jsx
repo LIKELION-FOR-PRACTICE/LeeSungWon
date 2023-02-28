@@ -11,6 +11,3 @@ function Book(props) {
 }
 
 export default Book;
-
-/*github 연습 */
-
